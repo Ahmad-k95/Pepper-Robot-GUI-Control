@@ -1,5 +1,4 @@
 # PepperPilot
-### Intuitive Python GUI for controlling and programming the Pepper humanoid robot.
 ![GUI Screenshot](data/images/GUI.png)
 
 ---
