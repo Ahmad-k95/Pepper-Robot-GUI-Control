@@ -1,5 +1,5 @@
 # PepperPilot
-![GUI Screenshot](data/images/GUI.png)
+![GUI Screenshot](data/images/_GUI_.png)
 
 ---
 
